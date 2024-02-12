@@ -16,3 +16,12 @@ because I didn't have time to download any and I dont think my employer wants me
 each under checking or savings.
 -We will change this to a Table that has [Account,Account_Type,Balance] 
 --This is named ReshapeData.py
+
+3. Removing Duplicates
+--created a csv for a grocery list table with a duplicate row
+--used pandas to drop the duplicate.
+
+4.
+
+
+5.
